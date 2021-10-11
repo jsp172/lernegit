@@ -1,0 +1,7 @@
+C:\Users\burggraf\source\repos\programmierung_grundlagen\programmierung_grundlagen\bin\Debug\programmierung_grundlagen.exe.config
+C:\Users\burggraf\source\repos\programmierung_grundlagen\programmierung_grundlagen\bin\Debug\programmierung_grundlagen.exe
+C:\Users\burggraf\source\repos\programmierung_grundlagen\programmierung_grundlagen\bin\Debug\programmierung_grundlagen.pdb
+C:\Users\burggraf\source\repos\programmierung_grundlagen\programmierung_grundlagen\obj\Debug\programmierung_grundlagen.csprojAssemblyReference.cache
+C:\Users\burggraf\source\repos\programmierung_grundlagen\programmierung_grundlagen\obj\Debug\programmierung_grundlagen.csproj.CoreCompileInputs.cache
+C:\Users\burggraf\source\repos\programmierung_grundlagen\programmierung_grundlagen\obj\Debug\programmierung_grundlagen.exe
+C:\Users\burggraf\source\repos\programmierung_grundlagen\programmierung_grundlagen\obj\Debug\programmierung_grundlagen.pdb
