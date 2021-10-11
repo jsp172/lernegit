@@ -75,6 +75,7 @@ namespace programmierung_grundlagen
                 Console.WriteLine("f > e || g > e ist falsch");
             }
 
+            // Schleifen
 
         }
     }
